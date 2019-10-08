@@ -1,2 +1,2 @@
 # LinuxClass1
-Class
+ScriptStuff
